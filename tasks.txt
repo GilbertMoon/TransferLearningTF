@@ -6,3 +6,7 @@ random forest
 https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
 https://datatofish.com/random-forest-python/
 https://code.visualstudio.com/docs/python/tutorial-django
+
+
+breast cancel detection
+https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
