@@ -14,3 +14,4 @@ https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras
 
 Flask + ML(DL)
 https://niceman.tistory.com/192
+https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4
