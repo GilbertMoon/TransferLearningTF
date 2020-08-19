@@ -10,6 +10,7 @@ https://code.visualstudio.com/docs/python/tutorial-django
 
 breast cancel detection
 https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
+https://github.com/rabia174/COVID-19-Deep-Learning-CNN-Model/blob/master/Covid-CT-Lung.ipynb
 
 
 Flask + ML(DL)
