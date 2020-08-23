@@ -86,6 +86,10 @@ https://wikidocs.net/79685
 http://www.makersmagazine.net/goods/goods_view.php?goodsNo=1000000035
 https://towardsdatascience.com/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb
 
+https://arxiv.org/pdf/1608.01230v1.pdf
+https://paperswithcode.com/paper/learning-a-driving-simulator
+https://paperswithcode.com/paper/learning-a-driving-simulator#code
+
 
 * LPR
 https://opentutorials.org/module/3811/25288
