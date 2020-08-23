@@ -79,3 +79,14 @@ https://medium.com/asos-techblog/deep-learning-for-fashion-attributes-763c8c9503
 마지막으로 9/5일에는 먼저 간략하게 개념설명 하고 위 13개 프로젝트 중 2~3개 정도를 아주 심플하게 따라할 수 있는 내용으로 정리중에 있습니다. 전체 시간이 몇시간 진행인지 알려 주시면 세부사항 작성해서 회신 드리겠습니다.
 
 감사합니다.
+
+
+* 자율주행자동차
+https://wikidocs.net/79685
+http://www.makersmagazine.net/goods/goods_view.php?goodsNo=1000000035
+https://towardsdatascience.com/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb
+
+
+* LPR
+https://opentutorials.org/module/3811/25288
+https://www.youtube.com/watch?v=oSPnWu-sp34
