@@ -75,6 +75,7 @@ https://paperswithcode.com/paper/learning-a-driving-simulator#code
 * LPR
 https://opentutorials.org/module/3811/25288
 https://www.youtube.com/watch?v=oSPnWu-sp34
+https://towardsdatascience.com/automatic-license-plate-detection-recognition-using-deep-learning-624def07eaaf
 
 *PCA
 https://www.youtube.com/watch?v=DUJ2vwjRQag
