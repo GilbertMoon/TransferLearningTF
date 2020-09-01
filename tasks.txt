@@ -80,6 +80,10 @@ https://towardsdatascience.com/automatic-license-plate-detection-recognition-usi
 *PCA
 https://www.youtube.com/watch?v=DUJ2vwjRQag
 https://datascienceschool.net/view-notebook/f10aad8a34a4489697933f77c5d58e3a/
+https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1009871&gclid=CjwKCAjw4rf6BRAvEiwAn2Q76ufmeQq8kv0X2ACIPkCscIkl69arznMTUeAcLmGhAioyxy2CuXPQWBoCof4QAvD_BwE
+
+https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+
 
 * COVID - 19
 황헌규 박사님 한가지 문의드릴 것은 14~20번을 제외한 나머지 환자들의 경우 2번 검사를 하였는데 1차와 2차 검사가 의미가 있는 것인가요? 아니면 별개로 보면 되는 것인가요? 
