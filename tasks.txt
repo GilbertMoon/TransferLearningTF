@@ -62,6 +62,11 @@ https://medium.com/asos-techblog/deep-learning-for-fashion-attributes-763c8c9503
 감사합니다.
 
 
+* Object Detect
+https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
+https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
+
+
 * 자율주행자동차
 https://wikidocs.net/79685
 http://www.makersmagazine.net/goods/goods_view.php?goodsNo=1000000035
