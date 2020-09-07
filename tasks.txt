@@ -71,6 +71,7 @@ https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-le
 https://wikidocs.net/79685
 http://www.makersmagazine.net/goods/goods_view.php?goodsNo=1000000035
 https://towardsdatascience.com/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb
+https://github.com/PacktPublishing/Intelligent-Projects-Using-Python
 
 https://arxiv.org/pdf/1608.01230v1.pdf
 https://paperswithcode.com/paper/learning-a-driving-simulator
