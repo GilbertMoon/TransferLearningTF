@@ -99,6 +99,9 @@ breast cancel detection
 https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
 https://github.com/rabia174/COVID-19-Deep-Learning-CNN-Model/blob/master/Covid-CT-Lung.ipynb
 
+image classification
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+
 
 
 * 온라인 교육
