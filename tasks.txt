@@ -8,11 +8,6 @@ https://datatofish.com/random-forest-python/
 https://code.visualstudio.com/docs/python/tutorial-django
 
 
-breast cancel detection
-https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
-https://github.com/rabia174/COVID-19-Deep-Learning-CNN-Model/blob/master/Covid-CT-Lung.ipynb
-
-
 Flask + ML(DL)
 https://niceman.tistory.com/192
 https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4
@@ -98,8 +93,11 @@ https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
 
 https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
 https://github.com/ieee8023/covid-chestxray-dataset
+https://pytorchlightning.github.io/lightning-Covid19/
 
-
+breast cancel detection
+https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
+https://github.com/rabia174/COVID-19-Deep-Learning-CNN-Model/blob/master/Covid-CT-Lung.ipynb
 
 
 
