@@ -96,6 +96,8 @@ https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
 * COVID - 19
 황헌규 박사님 한가지 문의드릴 것은 14~20번을 제외한 나머지 환자들의 경우 2번 검사를 하였는데 1차와 2차 검사가 의미가 있는 것인가요? 아니면 별개로 보면 되는 것인가요? 
 
+https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
+
 
 
 
