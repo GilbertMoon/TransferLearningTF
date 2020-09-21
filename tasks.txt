@@ -76,6 +76,8 @@ http://www.secmem.org/blog/2019/03/09/OpenAI-Gym-사용하기/
 
 https://sohnryang.github.io/blog/2019/03/31/colab-rl.html
 
+https://github.com/sohnryang/keras-reinforcement-learning/blob/master/tutorial/cartpole.ipynb
+
 
 * LPR
 https://opentutorials.org/module/3811/25288
