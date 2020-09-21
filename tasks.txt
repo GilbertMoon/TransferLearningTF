@@ -74,6 +74,8 @@ https://paperswithcode.com/paper/learning-a-driving-simulator#code
 
 http://www.secmem.org/blog/2019/03/09/OpenAI-Gym-사용하기/
 
+https://sohnryang.github.io/blog/2019/03/31/colab-rl.html
+
 
 * LPR
 https://opentutorials.org/module/3811/25288
