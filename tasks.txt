@@ -78,6 +78,8 @@ https://sohnryang.github.io/blog/2019/03/31/colab-rl.html
 
 https://github.com/sohnryang/keras-reinforcement-learning/blob/master/tutorial/cartpole.ipynb
 
+https://github.com/elsheikh21/car-racing-ppo
+
 
 * LPR
 https://opentutorials.org/module/3811/25288
