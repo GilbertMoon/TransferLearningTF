@@ -131,3 +131,6 @@ https://medium.com/@john_analyst/smote%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%
 
 * Foward Feature Selection
 https://www.kdnuggets.com/2018/06/step-forward-feature-selection-python.html
+
+* Cut Off
+http://www.datamarket.kr/xe/index.php?mid=board_BoGi29&document_srl=51170&listStyle=viewer
