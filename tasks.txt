@@ -80,6 +80,7 @@ https://github.com/sohnryang/keras-reinforcement-learning/blob/master/tutorial/c
 
 https://github.com/elsheikh21/car-racing-ppo
 
+https://github.com/PacktPublishing/Intelligent-Projects-using-Python
 
 * LPR
 https://opentutorials.org/module/3811/25288
