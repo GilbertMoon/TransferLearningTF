@@ -82,6 +82,8 @@ https://github.com/elsheikh21/car-racing-ppo
 
 https://github.com/PacktPublishing/Intelligent-Projects-using-Python
 
+https://medium.com/free-code-camp/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a
+
 * LPR
 https://opentutorials.org/module/3811/25288
 https://www.youtube.com/watch?v=oSPnWu-sp34
