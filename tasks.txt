@@ -1,6 +1,8 @@
 * PCA 점수, 거리
 https://support.minitab.com/ko-kr/minitab/18/help-and-how-to/modeling-statistics/multivariate/how-to/principal-components/interpret-the-results/all-statistics-and-graphs/
 https://wis.kuleuven.be/stat/robust/papers/2009/skewrobpca-revision.pdf
+- outlier detection PCA
+https://github.com/damjankuznar/pylof/blob/master/lof.py
 
 1. https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
 2. http://kimstar.kr/3231/
