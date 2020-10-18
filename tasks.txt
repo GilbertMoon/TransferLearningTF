@@ -143,3 +143,18 @@ https://www.kdnuggets.com/2018/06/step-forward-feature-selection-python.html
 
 * Cut Off
 http://www.datamarket.kr/xe/index.php?mid=board_BoGi29&document_srl=51170&listStyle=viewer
+
+
+
+
+
+
+1. windows : grmoon / P@ssw0rd4$
+2. FortiClient / 원격접속 : grmoon / P@ssw0rd4$
+3. 공감 : K1200127 / P@ssw0rd4$
+4. Nateon Biz : grmoon@sk.om / P@ssw0rd3#
+
+
+1시간에 1번씩 네이트온 로그인 되어 있는지 확인하고
+연결 끊어졌으면 2번 FortClient 다시 로그인/접속하고
+NateonBiz 재로그인하기
