@@ -118,6 +118,9 @@ image classification
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part1.ipynb#scrollTo=0oj0gTIy4k60
 
+* AI system heat map overaid
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7437494/
+
 
 
 * 온라인 교육
