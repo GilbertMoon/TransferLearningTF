@@ -1,163 +1,20 @@
-* PCA 점수, 거리
-https://support.minitab.com/ko-kr/minitab/18/help-and-how-to/modeling-statistics/multivariate/how-to/principal-components/interpret-the-results/all-statistics-and-graphs/
-https://wis.kuleuven.be/stat/robust/papers/2009/skewrobpca-revision.pdf
-- outlier detection PCA
-https://github.com/damjankuznar/pylof/blob/master/lof.py
+직무 기술서 (출입보안개발팀)
 
-1. https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8
-2. http://kimstar.kr/3231/
+1. 담당 직무(구체적으로 기술)
+- 클라우드(MS Azure) 기반의 출입/근태 시스템 개발 및 플랫폼 운영/관리
+- C# 기반의 출입/근태/관제용 솔루션 개발 및 플랫폼 운영/관리
 
+2. 자격요건
+- 컴퓨터 공학이나 그와 유사한 학과의 학사 이상 학위 소지자
+- C#, WPF 개발 경력을 5년 이상 보유한 분
+- MVVM Pattern 및 XAML로 UI 개발에 능숙한 분
+- MSSQL 활용 능력 보유하신 분
+- 적극적이고 능동적인 커뮤니케이션 스킬 보유하신 분
 
-random forest
-https://towardsdatascience.com/random-forest-in-python-24d0893d51c0
-https://datatofish.com/random-forest-python/
-https://code.visualstudio.com/docs/python/tutorial-django
-
-
-Flask + ML(DL)
-https://niceman.tistory.com/192
-https://towardsdatascience.com/how-to-easily-deploy-machine-learning-models-using-flask-b95af8fe34d4
-
-
-1. 얼굴인식 출입 시스템(Face Recognition)
-https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
-
-2. 비디오 캡션 달기(상황 인식)
-https://arxiv.org/pdf/1806.00186.pdf
-
-3. 사진/동영상 성별, 연령 구분
-https://www.learnopencv.com/age-gender-classification-using-opencv-deep-learning-c-python/
-
-4. 주식 예측(뉴스 감성 분석)
-https://towardsdatascience.com/aifortrading-2edd6fac689d
-
-5. 피부암, 폐렴, 코로나 판별(XRay 사진)
-https://www.nature.com/articles/s41598-019-48995-4
-
-6. 차종, 차번 인식
-https://towardsdatascience.com/automatic-license-plate-detection-recognition-using-deep-learning-624def07eaaf
-
-7. 지능형 추천(영화, 도서, 상품 등) 시스템
-https://ieeexplore.ieee.org/document/8424686.
-
-8. 구글 공룡 게임 오토 플레이
-https://www.youtube.com/watch?v=MZ4JyYmhCvY
-
-9. 피플카운팅(인원, 방향 => 상권분석)
-https://www.youtube.com/watch?v=Ij0OGm6kLOg
-
-10. 고객 서비스를 위한 대화형 챗봇
-https://www.youtube.com/watch?v=dvOnYLDg8_Y
-
-11. 강화학습을 통한 자율주행차
-https://www.sciencedirect.com/science/article/pii/S0386111219301566
-
-12. 신경망 기계 번역
-https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa
-
-13. 패션사업 스타일 예측(GAN)
-https://medium.com/asos-techblog/deep-learning-for-fashion-attributes-763c8c95034c
-
-마지막으로 9/5일에는 먼저 간략하게 개념설명 하고 위 13개 프로젝트 중 2~3개 정도를 아주 심플하게 따라할 수 있는 내용으로 정리중에 있습니다. 전체 시간이 몇시간 진행인지 알려 주시면 세부사항 작성해서 회신 드리겠습니다.
-
-감사합니다.
-
-
-* Object Detect
-https://www.pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
-https://www.pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
-
-
-* 자율주행자동차
-https://wikidocs.net/79685
-http://www.makersmagazine.net/goods/goods_view.php?goodsNo=1000000035
-https://towardsdatascience.com/how-to-train-your-self-driving-car-using-deep-learning-ce8ff76119cb
-https://github.com/PacktPublishing/Intelligent-Projects-Using-Python
-
-https://arxiv.org/pdf/1608.01230v1.pdf
-https://paperswithcode.com/paper/learning-a-driving-simulator
-https://paperswithcode.com/paper/learning-a-driving-simulator#code
-
-http://www.secmem.org/blog/2019/03/09/OpenAI-Gym-사용하기/
-
-https://sohnryang.github.io/blog/2019/03/31/colab-rl.html
-
-https://github.com/sohnryang/keras-reinforcement-learning/blob/master/tutorial/cartpole.ipynb
-
-https://github.com/elsheikh21/car-racing-ppo
-
-https://github.com/PacktPublishing/Intelligent-Projects-using-Python
-
-https://medium.com/free-code-camp/how-to-build-an-ai-game-bot-using-openai-gym-and-universe-f2eb9bfbb40a
-
-* LPR
-https://opentutorials.org/module/3811/25288
-https://www.youtube.com/watch?v=oSPnWu-sp34
-https://towardsdatascience.com/automatic-license-plate-detection-recognition-using-deep-learning-624def07eaaf
-
-*PCA
-https://www.youtube.com/watch?v=DUJ2vwjRQag
-https://datascienceschool.net/view-notebook/f10aad8a34a4489697933f77c5d58e3a/
-https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=332602034358&utm_targetid=aud-299261629574:dsa-429603003980&utm_loc_interest_ms=&utm_loc_physical_ms=1009871&gclid=CjwKCAjw4rf6BRAvEiwAn2Q76ufmeQq8kv0X2ACIPkCscIkl69arznMTUeAcLmGhAioyxy2CuXPQWBoCof4QAvD_BwE
-
-https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
-
-
-* COVID - 19
-황헌규 박사님 한가지 문의드릴 것은 14~20번을 제외한 나머지 환자들의 경우 2번 검사를 하였는데 1차와 2차 검사가 의미가 있는 것인가요? 아니면 별개로 보면 되는 것인가요? 
-
-https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
-https://github.com/ieee8023/covid-chestxray-dataset
-https://pytorchlightning.github.io/lightning-Covid19/
-
-breast cancel detection
-https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
-https://github.com/rabia174/COVID-19-Deep-Learning-CNN-Model/blob/master/Covid-CT-Lung.ipynb
-
-image classification
-https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
-https://colab.research.google.com/github/google/eng-edu/blob/master/ml/pc/exercises/image_classification_part1.ipynb#scrollTo=0oj0gTIy4k60
-
-* AI system heat map overaid
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7437494/
-
-
-
-* 온라인 교육
-https://adthrd.thecampus.co.kr/lms/class/sso_myedu.php?login_id_1=ADTK1200127&course_code_1=CLL47160&study_start_date_1=2020-09-07&study_end_date_1=2020-09-21&section_cpid=cp0014
-
-
-
-* iris classification
-https://pinkwink.kr/1128
-
-
-* Knox - 20200921
-P@ssw0rd2@
-P@ssw0rd22@@
-
-
-* 데이터 불균형
-smote
-https://medium.com/@john_analyst/smote%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%88%EA%B7%A0%ED%98%95-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5ab674ef0b32
-
-* Foward Feature Selection
-https://www.kdnuggets.com/2018/06/step-forward-feature-selection-python.html
-
-* Cut Off
-http://www.datamarket.kr/xe/index.php?mid=board_BoGi29&document_srl=51170&listStyle=viewer
-
-
-
-
-
-
-1. windows : grmoon / P@ssw0rd4$
-2. FortiClient / 원격접속 : grmoon / P@ssw0rd4$
-3. 공감 : K1200127 / P@ssw0rd4$
-4. Nateon Biz : grmoon@sk.om / P@ssw0rd3#
-
-
-1시간에 1번씩 네이트온 로그인 되어 있는지 확인하고
-연결 끊어졌으면 2번 FortClient 다시 로그인/접속하고
-NateonBiz 재로그인하기
+3. 우대사항
+- MS Azure 대규모 환경에서의 시스템 개발/구축/운영 경력자 우대
+- 대규모 환경의 DB(MSSQL or ORACLE) 운영 및 개발 경험자 우대
+- ASP.NET Razor 개발 경험자 우대
+- C++ 개발 경험자 및 시스템 성능 분석 및 튜닝 경험자 우대
+- Serial, modbus 등 여러가지 디바이스 통신 경험자 우대
+　
